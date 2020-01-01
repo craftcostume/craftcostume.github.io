@@ -1,0 +1,38 @@
+.slider h3,
+.slider h5,
+.partner h3 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.9);
+}
+
+.about img {
+    max-width: 600px;
+    max-height: 600px;
+    box-shadow: 1px 2px 5px black;
+   
+}
+
+section, footer {
+    padding: 20px 0;
+}
+
+.parallax-container{
+    height: 20%
+}
+
+.parallax img{
+    opacity: 0.5 !important;
+}
+
+.partner img {
+    max-width: 200px;
+    filter: drop-shadow(1px 1px 1px rgba(0,0,0,5.9));
+}
+
+.portfolio img {
+    max-width: 280px;
+    box-shadow: 1px 2px 5px black;
+}
+
+.awards img {
+    box-shadow: 1px 2px 5px black;
+}
